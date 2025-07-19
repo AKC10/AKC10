@@ -1,7 +1,6 @@
-<!-- Profile Banner -->
 
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#007bff">Ashrut (Ash)</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#007bff">Ashrut Koirala</span></h1>
 <h3 align="center">💻 Nepalese International Student | Computer Science @ University of South Dakota</h3>
 
 ---
@@ -9,8 +8,8 @@
 ### 👨‍💻 About Me
 
 🎓 I'm an international student from **Nepal** pursuing a degree in **Computer Science** at the University of South Dakota.  
-🌱 Passionate about building web apps, automating with scripts, and exploring the cloud ☁️.  
-🌍 Love contributing to open-source, learning new tech, and working on collaborative projects.
+🌱 Passionate about building web apps, automating tasks with scripts, and exploring cloud technologies ☁️.  
+🌍 I enjoy contributing to open-source, learning new tools, and collaborating on meaningful projects.
 
 ---
 
@@ -39,13 +38,13 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Ashrut Koirala /" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="mailto:Ashrut.Koirala@coyotes.usd.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/AKC10">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -61,4 +60,3 @@
 ---
 
 > _"Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill_
-
