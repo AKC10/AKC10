@@ -1,57 +1,75 @@
-
-<h1 align="center">Hi there 👋, I'm <span style="color:#007bff">Ashrut Koirala</span></h1>
-<h3 align="center">💻 Nepalese International Student | Computer Science @ University of South Dakota</h3>
-
----
-
-### 👨‍💻 About Me
-
-🎓 I'm an international student from **Nepal** pursuing a degree in **Computer Science** at the University of South Dakota.  
-🌱 Passionate about building web apps, automating tasks with scripts, and exploring cloud technologies ☁️.  
-🌍 I enjoy contributing to open-source, learning new tools, and collaborating on meaningful projects.
-
----
-
-### 🛠️ Languages & Tools
+<!-- Elite GitHub Profile README for Ashrut Koirala -->
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=5BCEFA&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Ashrut+Koirala+%F0%9F%91%8B;Code.+Innovate.+Inspire." alt="Typing SVG" />
+</p>
+
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="35"/> Ashrut Koirala <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+</h1>
+<h3 align="center">🌍 Nepalese | 🚀 CS @ University of South Dakota | 🛠️ Full Stack Explorer</h3>
+
+---
+
+
+## 👑 About Me
+
+- 🌏 From Nepal, living in code—currently at the University of South Dakota.
+- ⚡ Passionate about problem solving, automation, and building exceptional web experiences.
+- 🏆 Striving for excellence in every commit, every project.
+- 🤝 Open to unique collaborations and innovative projects.
+
+---
+
+## 🧠 Tech Arsenal
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 🏅 Elite GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKC10&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKC10&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=AKC10&show_icons=true&theme=radical&hide_title=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKC10&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 My Mission
+
+- 🔥 Build, break, and rebuild with purpose.
+- 🌱 Always leveling up: TypeScript, Next.js, Cloud Native.
+- 🌐 Making a mark in open source & tech communities.
+
+---
+
+## 🌎 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashrut-koirala-6613b0345/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="https://github.com/AKC10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-### 🚀 Current Goals
-
-- 📘 Learn TypeScript and Next.js  
-- ☁️ Become AWS Certified  
-- 🤝 Contribute to meaningful open-source projects  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Success%20is%20not%20final%2C%20failure%20is%20not%20fatal%3A%20It%20is%20the%20courage%20to%20continue%20that%20counts.&author=Winston%20Churchill" alt="Elite Quote"/>
+</p>
 
 ---
 
-> _"Success is not final, failure is not fatal: It is the courage to continue that counts." – Winston Churchill_
+<p align="center"><b>Code with intent. Collaborate with passion. Deliver with pride.</b></p>
