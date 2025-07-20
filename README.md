@@ -33,17 +33,6 @@
 
 </p>
 
----
-
-## 🏅 Elite GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKC10&show_icons=true&theme=radical&hide_title=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKC10&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ## 🚀 My Mission
 
 - 🔥 Build, break, and rebuild with purpose.
